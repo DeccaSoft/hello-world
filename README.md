@@ -1,2 +1,4 @@
 # hello-world
-Repositório de Boas Vindas
+Repositório de Boas Vindas!
+
+Aprendendo...
