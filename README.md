@@ -78,3 +78,39 @@ Tem mais emojis [aqui](https://emojipedia.org/) para você recortar e colar no T
 
 Citação: Como diria @gustavoguanabara
 
+Para inserir um dos seguintes caracteres, use uma barra invertida como prefixo:
+
+```\ backslash ```
+
+\` `backtick`
+
+```_ underscore ```
+
+```{} curly braces ```
+
+```[] square brackets ```
+
+```() parentheses ```
+
+```# hash mark ```
+
+```+ plus sign ```
+
+```- minus sign (hyphen) ```
+
+```. dot ```
+
+```! exclamation mark ```
+
+Alguns exemplos de inserção de caracteres especiais
+Digite ```\\``` para obter \\
+
+Digite ```\_``` para obter _
+
+Digite ```\#``` para obter \#
+
+Digite ```\(``` para obter \(
+
+Digite ```\.``` para obter \.
+
+Digite ```\!``` para obter \!
