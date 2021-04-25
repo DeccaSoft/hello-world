@@ -1,7 +1,7 @@
 # hello-world  
 Repositório de Boas Vindas!  
 
-Aprendendo Mark Down...
+Aprendendo Markdown...
   
 **Negrito** ou __Negrito__  
 *Itálico* ou _Itálico_  
